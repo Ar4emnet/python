@@ -13,4 +13,4 @@ def vopros (a):
     print(a)
 
 
-vopros("gggggg ggg ggg")
+vopros("gggggg gggggg")
